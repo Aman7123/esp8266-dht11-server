@@ -12,5 +12,5 @@ This wiring must be compled as shown or modifications are needed to the code
 
 ## Dependances
 1. Additional boards manager URL: http://arduino.esp8266.com/stable/package_esp8266com_index.json
-2. (Arduino JSON)[https://github.com/arduino-libraries/Arduino_JSON]
-3. (DHT Library)[https://github.com/adafruit/DHT-sensor-library]
+2. [Arduino JSON](https://github.com/arduino-libraries/Arduino_JSON)
+3. [DHT Library](https://github.com/adafruit/DHT-sensor-library)
